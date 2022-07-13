@@ -61,6 +61,7 @@ ul{
 .main-container{
     width: 1200px;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 .greeting-wrapper{
