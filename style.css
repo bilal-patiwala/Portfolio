@@ -358,6 +358,31 @@ ul{
     border-radius: 3px;
 }
 
+footer{
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
+#Contact-links{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#Contact-links > a{
+    padding-right: 20px;
+}
+
+.media-icons{
+    width: 35px;
+    height: 35px;
+}
+
+.media-icons:hover{
+    width: 40px;
+    height: 40px;
+}
+
 @media screen and (max-width:1200px) {
     .main-container{
         width: 95%; 
